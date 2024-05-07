@@ -1,0 +1,41 @@
+_repo: The-girl-from-Bodies-Inc_73523
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Spencer, Len
+    aliases:
+    - Spencer, Leonard G. (Leonard Garfield)
+    - Allen, Gary
+    birthdate: 1867
+    deathdate: 1914
+    gutenberg_agent_id: '3364'
+    url: http://www.gutenberg.org/2009/agents/3364
+    wikipedia: https://en.wikipedia.org/wiki/Len_Spencer
+description: ''
+gutenberg_issued: '2024-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73523'
+language: en
+pgterms:marc905: 20240319150032spencer
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The girl from Bodies, Inc.
+url: http://www.gutenberg.org/ebooks/73523
